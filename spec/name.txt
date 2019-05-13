@@ -1,0 +1,63 @@
+이름
+
+계이름 - tonic sol-fa
+movable
+도	Do	D
+레	Re	R
+미	Mi	M
+파	Fa	F
+솔	So	S
+라	La	L
+시	Ti	T
+
+음이름 - key name
+static
+다	C
+라	D
+마	E
+바	F
+사	G
+가	A
+나	B
+
+below is for direct eval at programming lang.
+(
+(도, Do, D),
+(레, Re, R),
+(미, Mi, M),
+(파, Fa, F),
+(솔, So, S),
+(라, La, L),
+(시, Ti, T)
+)
+
+(
+(다, C),
+(라, D),
+(마, E),
+(바, F),
+(사, G),
+(가, A),
+(나, B)
+)
+
+[
+[도, Do, D],
+[레, Re, R],
+[미, Mi, M],
+[파, Fa, F],
+[솔, So, S],
+[라, La, L],
+[시, Ti, T]
+]
+
+[
+[다, C],
+[라, D],
+[마, E],
+[바, F],
+[사, G],
+[가, A],
+[나, B]
+]
+

@@ -1,0 +1,34 @@
+여느 다른 상황에서 처럼, 쉬운 이해를 위해 묶는 것은 중괄호로
+as in many other places, braces for a bundle.
+읽기 쉽고 작성하기 쉽도록 쉼표 없이 공백으로 구분
+separating with spaces would make easy reading and writing than comma
+하지만 사용자가 원하는대로 변경 가능하고, 표준과 사용자 지정 형식 사이에 쉬운 변환이 가능하도록
+but can be customized, and converting between standard and user setting must be easy.
+
+4 for ♩, 8 for ♪
+. for 3/2 times
+.. for 7/4 times
+
+옥타브는 가온 다를 중심으로
+middle C is criterion for eval octave.
+
+기본적으로 다장조
+basically C major.
+
+
+
+ex) 비행기 노래(Mary had a Little Lamb)
+soprano = {
+    m8. r16 d8 r8 m8 m8 m4 r8 r8 m8. r16 d2
+}
+alto = {
+
+}
+
+TODO
+finde elegant way for representing sharp, flat
+and octave up/down
+
+must be easy to write with just keyboard, minimalize use of shift.
+easier: ,/;'[]\-=
+harder: <>?:"|`~!@#$%^&*()_+

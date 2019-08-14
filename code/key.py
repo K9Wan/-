@@ -16,7 +16,7 @@ class Key(int):
         i = octave*12 + match[key[0]] - 8
         if not accidental:
             return i
-        if accidental in ('♯', '#''sh', 'is'):
+        if accidental in ('♯', '#', 'sh', 'is'):
             return i+1
         if accidental in ('♭', 'b', 'fl', 'es', 's'):
             return i-1
